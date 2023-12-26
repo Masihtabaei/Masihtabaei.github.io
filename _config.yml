@@ -1,10 +1,10 @@
 # Site settings
 title: Masih's Personal Blog # site title
 description: >- # site description
-    I study computer science in Germany and am mainly interested in embedded systems, compiler construction and computer architecture.</br>
+    I am a computer science student born in Iran (currently based in Germany) and am mainly interested in embedded systems, compiler design (still didn't finish reading the dragon book &#128517;) and computer architecture.</br>
     Follow me on Github: <a href="https://github.com/Masihtabaei" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Europe/Berlin # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
@@ -13,11 +13,11 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Masih # author name
   bio: >- # tell to the world
-    I study computer science in Germany and am mainly interested in embedded systems, compiler construction and computer architecture.</br>
+    I am a computer science student born in Iran (currently based in Germany) and am mainly interested in embedded systems, compiler design (still didn't finish reading the dragon book &#128517;) and computer architecture.</br>
     Follow me on Github: <a href="https://github.com/Masihtabaei" target="_blank" rel="noopener">@github</a>.
   username: Masihtabaei # general username
   github: Masihtabaei # github username
-  twitter:  # twitter username
+  twitter:  Masihtabaei # twitter username
   facebook: facebook_username # facebook username
   email: your-email@email.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
