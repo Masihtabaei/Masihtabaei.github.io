@@ -11,17 +11,6 @@ As a computer science student born in Iran, I thought it would make more sense t
 
 I had a few blogs in the past (started when I was 12). After a short break, I thought I would start blogging again so that I can share my daily thoughts, ideas and learnings with others so that they can use them and I also have them in a written form so that I can take a look at them from time to time.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
 [dorood-wiktionary-page]: https://en.wiktionary.org/wiki/%D8%AF%D8%B1%D9%88%D8%AF
 [jahan-wiktionary-page]: https://en.wiktionary.org/wiki/Jahan
