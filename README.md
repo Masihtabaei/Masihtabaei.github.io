@@ -1,6 +1,6 @@
 # Masih's Personal Page
 
-I use [Klisé](https://github.com/piharpi/jekyll-klise) as a minimalist [Jekyll](https://jekyllrb.com/) theme for running a personal page running on [GitHub pages](https://pages.github.com/).
+I use [Klisé](https://github.com/piharpi/jekyll-klise) as a minimalist [Jekyll](https://jekyllrb.com/) theme for running a personal page on [GitHub pages](https://pages.github.com/).
 
 ## Usage
 
