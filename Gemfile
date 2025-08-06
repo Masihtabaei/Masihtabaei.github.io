@@ -34,3 +34,5 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "webrick", "~> 1.7"
 
 gem "csv", "~> 3.3"
+
+gem "base64", "~> 0.3.0"
