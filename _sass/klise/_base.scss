@@ -368,20 +368,33 @@ mark,
   }
 }
 
-.author-links{
-  width: auto;
-  margin: 2%;
+.author-links {
+  display: flex;
+  flex-direction: row wrap;
+  justify-content: center;
 }
 
-.author-link{
+.author-link {
+  flex-basis: fit-content;
   border-radius: 20px;
-  padding: 1.5% 2%;
+  margin: 1%;
+  padding: 1% 2%;
   color: $dark-white;
-  text-decoration: none;
   background-color: $dark-light;
-
+  
   &:hover {
     color: $dark-text-link-blue;
     background-color: darken($dark-light, 10%);
+  }
+}
+
+.author-link > a {
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  .author-links {
+    flex-direction: column;
+    align-items: center;
   }
 }
