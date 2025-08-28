@@ -1,16 +1,10 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: I am a final-semester undergraduate student in Computer Science, originally from Iran and currently based in Germany. My academic focus lies in **visual computing**, with a strong passion for low-level programming and exploring how things work under the hood. Beyond my studies, I dedicate time to helping others—a way of giving back and expressing gratitude for the privilege of living in freedom and democracy.
+
 comments: false
 ---
 
-I am a computer science student born in Iran (currently based in Germany) and am mainly interested in embedded systems, compiler design (still didn't finish reading the dragon book 😅) and computer architecture.
-Follow me on Github: @github.
-
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+I am a final-semester undergraduate student in Computer Science, originally from Iran and currently based in Germany. My academic focus lies in **visual computing**, with a strong passion for low-level programming and exploring how things work under the hood. Beyond my studies, I dedicate time to helping others—a way of giving back and expressing gratitude for the privilege of living in freedom and democracy.
