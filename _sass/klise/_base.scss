@@ -367,3 +367,21 @@ mark,
     }
   }
 }
+
+.author-links{
+  width: auto;
+  margin: 2%;
+}
+
+.author-link{
+  border-radius: 20px;
+  padding: 1.5% 2%;
+  color: $dark-white;
+  text-decoration: none;
+  background-color: $dark-light;
+
+  &:hover {
+    color: $dark-text-link-blue;
+    background-color: darken($dark-light, 10%);
+  }
+}
