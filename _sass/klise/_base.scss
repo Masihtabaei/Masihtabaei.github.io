@@ -381,16 +381,9 @@ mark,
   padding: 1% 2%;
   color: $dark-white;
   background-color: $dark-light;
-  
-  &:hover {
-    color: $dark-text-link-blue;
-    background-color: darken($dark-light, 10%);
-  }
-}
-
-.author-link > a {
   text-decoration: none;
 }
+
 
 @media (max-width: 700px) {
   .author-links {

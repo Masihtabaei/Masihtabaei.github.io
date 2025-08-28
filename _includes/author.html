@@ -4,21 +4,21 @@
     (aka. {{ site.author.alias }}) {% endif %}</h2>
   <p class="author-bio">{{ site.author.bio }}</p>
   <div class="author-links">
-    <span class="author-link">
+    <a href="mailto:{{ site.author.email }}" class="author-link">
       <i class="fa-solid fa-envelope"></i>
-      <a href="mailto:{{ site.author.email }}">E-Mail</a>
-    </span>
-    <span class="author-link">
+      E-Mail
+    </a>
+    <a href="https://github.com/{{ site.author.github }}" class="author-link">
       <i class="fa-brands fa-github"></i>
-      <a href="https://github.com/{{ site.author.github }}">GitHub</a>
-    </span>
-    <span class="author-link">
+      GitHub
+    </a>
+    <a href="https://scholar.google.com/citations?hl=en&user={{ site.author.google_scholar }}" class="author-link">
       <i class="fa-brands fa-google-scholar"></i>
-      <a href="https://scholar.google.com/citations?hl=en&user={{ site.author.google_scholar }}">Google Scholar</a>
-    </span>
-    <span class="author-link">
+      Google Scholar
+    </a>
+    <a href="https://linkedin.com/in/{{ site.author.linkedin }}" class="author-link">
       <i class="fa-brands fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
-    </span>
+      LinkedIn
+    </a>
   </div>
 </div>
