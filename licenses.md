@@ -7,5 +7,5 @@ comments: false
 ---
 
 Most of my projects are licensed under the **MIT License**, unless noted otherwise. Below you can find the licenses I use:
-- [MIT](https://link-url-here.org)
-- [CC-BY 4.0](https://link-url-here.org)
+- [MIT](./mit) (source: [Open Source Initiative](https://opensource.org/license/MIT))
+- [CC-BY 4.0](./cc-by-4-0) (source: [Creative Commons Markdown](https://github.com/idleberg/Creative-Commons-Markdown))
