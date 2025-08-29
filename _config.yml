@@ -1,7 +1,7 @@
 # Site settings
 title: Seyedmasih Tabaei # site title
 description: >- # site description
-    I am a final-semester undergraduate student in Computer Science, originally from Iran and currently based in Germany. My academic focus lies in <b>visual computing</b>, with a strong passion for low-level programming and exploring how things work under the hood. Beyond my studies, I dedicate time to helping others—a way of giving back and expressing gratitude for the privilege of living in freedom and democracy.
+    I am a final-semester undergraduate student in Computer Science, originally from Iran and currently based in Germany. My academic focus lies in <b>visual computing</b>, with a strong passion for <b>low-level programming</b> and exploring how things work under the hood. Beyond my studies, I dedicate time to helping others—a way of giving back and expressing gratitude for the privilege of living in freedom and democracy.
 lang: en-US # default lang
 timezone: Europe/Berlin # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,7 +13,7 @@ author:
   name: Seyedmasih Tabaei # author name
   alias: Masih # author alias
   bio: >- # tell to the world
-    I am a final-semester undergraduate student in Computer Science, originally from Iran and currently based in Germany. My academic focus lies in <b>visual computing</b>, with a strong passion for low-level programming and exploring how things work under the hood. Beyond my studies, I dedicate time to helping others—a way of giving back and expressing gratitude for the privilege of living in freedom and democracy.
+    I am a final-semester undergraduate student in Computer Science, originally from Iran and currently based in Germany. My academic focus lies in <b>visual computing</b>, with a strong passion for <b>low-level programming</b> and exploring how things work under the hood. Beyond my studies, I dedicate time to helping others—a way of giving back and expressing gratitude for the privilege of living in freedom and democracy.
   username: Masihtabaei # general username
   github: Masihtabaei # github username
   google_scholar: PsjLxWcAAAAJ # google scholar username
