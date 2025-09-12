@@ -389,6 +389,7 @@ mark,
   text-decoration: none;
 }
 
+.github-fork-ribbon:before { background-color: #333333 !important; }
 
 @media (max-width: 700px) {
   .author-links {
