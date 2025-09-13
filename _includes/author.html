@@ -1,6 +1,6 @@
 <div class="author">
   <img class="author-avatar" src="{{ site.author.avatar }}" alt="{{ site.author.username }}" />
-  <h2 class="author-name">{{ site.author.name }}   {% if site.author.alias and site.author.alias != "" %}
+  <h2 class="author-name">{{ site.author.name }} {% if site.author.alias and site.author.alias != "" %}
     (aka. {{ site.author.alias }}) {% endif %}</h2>
   <p class="author-bio">{{ site.author.bio }}</p>
   <div class="author-links">
@@ -16,9 +16,13 @@
       <i class="fa-brands fa-google-scholar"></i>
       Google Scholar
     </a>
-    <a href="https://linkedin.com/in/{{ site.author.linkedin }}" class="author-link">
+    <!-- <a href="https://linkedin.com/in/{{ site.author.linkedin }}" class="author-link">
       <i class="fa-brands fa-linkedin"></i>
       LinkedIn
+    </a> -->
+
+    <a href="https://scholar.google.com/citations?hl=en&user={{ site.author.google_scholar }}" class="author-link">
+      <i class="fa-solid fa-file"></i> Short Résumé
     </a>
   </div>
 </div>
