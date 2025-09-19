@@ -2,6 +2,10 @@
   url: /
   external: false
 
+- title: projects
+  url: /projects/
+  external: false
+  
 - title: archive
   url: /archive/
   external: false
@@ -9,6 +13,7 @@
 - title: licenses
   url: /licenses/
   external: false
+
 
 # - title: about
 #   url: /about/
