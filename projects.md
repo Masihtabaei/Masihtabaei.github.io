@@ -2,7 +2,7 @@
 title: Projects
 permalink: /projects/
 layout: page
-excerpt: tbd
+excerpt: Here you will find a curated, though not complete, list of projects I have worked on over the past few years.
 
 comments: false
 ---
