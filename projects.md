@@ -98,7 +98,7 @@ comments: false
     <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
     <strong>Role: </strong>Developer<br>
     <strong>Tech Stack: </strong>Git, C++, DirectX 12, etc.<br>
-    A mesh viewer implemented with DirectX 12 using vertex, pixel, and compute shaders with lighting, shading, and textures for inspecting various meshed in Cogra binary format.<br>
+    A mesh viewer implemented with DirectX 12 using vertex, pixel, and compute shaders with lighting, shading, and textures for inspecting various meshes in Cogra binary format.<br>
     <a href="https://github.com/Masihtabaei/gpu-image-synthesis" target="_blank" >Repository</a>
   </div>
 </div>
