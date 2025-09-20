@@ -6,8 +6,8 @@
   url: /projects/
   external: false
   
-- title: archive
-  url: /archive/
+- title: posts
+  url: /posts/
   external: false
 
 - title: licenses
