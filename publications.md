@@ -79,7 +79,6 @@ Here you will find a list of publications I have worked on over the past few yea
   display: flex;
   flex-wrap: nowrap;
   margin: 2%;
-  font-size: 0.9em;
 }
 
 .flex-container > img {
