@@ -10,12 +10,24 @@ comments: false
 <div class="flex-container">
   <img src="/assets/img/cheap_16_logo.png">
   <div>
-    <strong>Project: </strong>Cheap-16<br>
+    <strong>Project: </strong>cheap-16<br>
     <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
     <strong>Role: </strong>Co-Developer<br>
     <strong>Tech Stack: </strong>Git, GitHub, GitLab, Rust, etc.<br>
     An educational 16-bit custom instruction set architecture with emulator, assembler, linker, and integrated development environment, all implemented in Rust.<br>
     <a href="https://github.com/Masihtabaei/cheap-16" target="_blank">Repository</a>
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="/assets/img/ladron_logo.png">
+  <div>
+    <strong>Project: </strong>Ladron<br>
+    <strong>Status: </strong>Done (Grade: 1.3 | Very Good)<br>
+    <strong>Role: </strong>Co-Developer<br>
+    <strong>Tech Stack: </strong>Git, GitHub, Unity Engine, etc.<br>
+    A narrative survival game focused on riddle-solving, developed within our Fundamentals of Game Design course, developed with Unity Engine.<br>
+    <a href="https://github.com/Masihtabaei/ladron" target="_blank">Repository</a>
   </div>
 </div>
 
