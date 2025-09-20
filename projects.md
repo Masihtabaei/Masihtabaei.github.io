@@ -7,8 +7,10 @@ excerpt: tbd
 comments: false
 ---
 
+Here you will find a curated, though not complete, list of projects I have worked on over the past few years, with more available on my GitHub or upon request.
+
 <div class="flex-container">
-  <img src="/assets/img/cheap_16_logo.png">
+  <img src="/assets/img/projects/cheap_16_logo.png">
   <div>
     <strong>Project: </strong>cheap-16<br>
     <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
@@ -20,7 +22,7 @@ comments: false
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/ladron_logo.png">
+  <img src="/assets/img/projects/ladron_logo.png">
   <div>
     <strong>Project: </strong>Ladron<br>
     <strong>Status: </strong>Done (Grade: 1.3 | Very Good)<br>
@@ -32,7 +34,7 @@ comments: false
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/coming_soon_placeholder.svg">
+  <img src="/assets/img/projects/coming_soon_placeholder.svg">
   <div>
     <strong>Project: </strong>hlslx<br>
     <strong>Status: </strong>Ongoing<br>
@@ -44,7 +46,7 @@ comments: false
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/octa_seed_logo.png">
+  <img src="/assets/img/projects/octa_seed_logo.png">
   <div>
     <strong>Project: </strong>OctaSeed<br>
     <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
@@ -56,7 +58,7 @@ comments: false
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/reswhis_logo.png">
+  <img src="/assets/img/projects/no_logo_placeholder.svg">
   <div>
     <strong>Project: </strong>reswhis<br>
     <strong>Status: </strong>Done<br>
@@ -68,7 +70,7 @@ comments: false
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/vista_earth_sync_logo.png">
+  <img src="/assets/img/projects/vista_earth_sync_logo.png">
   <div>
     <strong>Project: </strong>Vista | Earth Sync<br>
     <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
@@ -80,7 +82,7 @@ comments: false
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/coburg_scene_viewer.png">
+  <img src="/assets/img/projects/coburg_scene_viewer.png">
   <div>
     <strong>Project: </strong>Coburg Scene Viewer<br>
     <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
@@ -92,7 +94,7 @@ comments: false
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/coburg_mesh_viewer_logo.png">
+  <img src="/assets/img/projects/coburg_mesh_viewer_logo.png">
   <div>
     <strong>Project: </strong>Coburg Mesh Viewer<br>
     <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
@@ -100,6 +102,54 @@ comments: false
     <strong>Tech Stack: </strong>Git, C++, DirectX 12, etc.<br>
     A mesh viewer implemented with DirectX 12 using vertex, pixel, and compute shaders with lighting, shading, and textures for inspecting various meshes in Cogra binary format.<br>
     <a href="https://github.com/Masihtabaei/gpu-image-synthesis" target="_blank" >Repository</a>
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <div>
+    <strong>Project: </strong>coburs<br>
+    <strong>Status: </strong>Done<br>
+    <strong>Role: </strong>Developer<br>
+    <strong>Tech Stack: </strong>Git, C, Assembly, etc.<br>
+    A minimal run-to-completion scheduler with process management API, configurable context switching, and a demo application using 8 concurrent LED processes.<br>
+    <a href="https://github.com/Masihtabaei/coburs-embedded-run-to-completion-scheduler" target="_blank" >Repository</a>
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <div>
+    <strong>Project: </strong>coburc<br>
+    <strong>Status: </strong>Done<br>
+    <strong>Role: </strong>Developer<br>
+    <strong>Tech Stack: </strong>Git, C, Assembly, etc.<br>
+    A minimal cooperative multitasking operating system with a process management API and chaser light application as demo.<br>
+    <a href="https://github.com/Masihtabaei/coburc-embedded-os-with-cooperative-multitasking" target="_blank" >Repository</a>
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <div>
+    <strong>Project: </strong>cobin<br>
+    <strong>Status: </strong>Done<br>
+    <strong>Role: </strong>Developer<br>
+    <strong>Tech Stack: </strong>Git, C, etc.<br>
+    A minimal interpreter for evaluating expressions with support for addition, subtraction, multiplication, integer division, exponentiation, and arbitrarily nested brackets.<br>
+    <a href="https://github.com/Masihtabaei/cobin-minimal-interpreter-in-c" target="_blank" >Repository</a>
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <div>
+    <strong>Project: </strong>cobit<br>
+    <strong>Status: </strong>Done<br>
+    <strong>Role: </strong>Developer<br>
+    <strong>Tech Stack: </strong>Git, C, etc.<br>
+    A minimal unit test framework in C for embedded projects, designed for STM32 (Arm Cortex-M4) and using sprintf with a 2D buffer to display test results.<br>
+    <a href="https://github.com/Masihtabaei/cobit-minimal-embedded-c-unit-test-framework" target="_blank" >Repository</a>
   </div>
 </div>
 
