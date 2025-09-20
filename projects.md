@@ -13,7 +13,7 @@ comments: false
     <strong>Project: </strong>cheap-16<br>
     <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
     <strong>Role: </strong>Co-Developer<br>
-    <strong>Tech Stack: </strong>Git, GitHub, GitLab, Rust, etc.<br>
+    <strong>Tech Stack: </strong>Git, GitHub, Rust, etc.<br>
     An educational 16-bit custom instruction set architecture with emulator, assembler, linker, and integrated development environment, all implemented in Rust.<br>
     <a href="https://github.com/Masihtabaei/cheap-16" target="_blank">Repository</a>
   </div>
@@ -40,6 +40,18 @@ comments: false
     <strong>Tech Stack: </strong>Git, GitHub, C#, etc.<br>
     A versatile Visual Studio extension that enhances modern HLSL shader programming with syntax highlighting, code completion, and more.<br>
     <a href="" >Coming Soon ... (approx. Q1 2026)</a>
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="/assets/img/octa_seed_logo.png">
+  <div>
+    <strong>Project: </strong>OctaSeed<br>
+    <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
+    <strong>Role: </strong>Developer<br>
+    <strong>Tech Stack: </strong>Git, GitLab, C++, DirectX 12, etc.<br>
+    A novel method for procedural three-dimensional (3D) fruit generation that leverages the power of mesh shaders.<br>
+    <a href="https://github.com/Masihtabaei/octa-seed" target="_blank" >Repository</a>
   </div>
 </div>
 
