@@ -79,6 +79,30 @@ comments: false
   </div>
 </div>
 
+<div class="flex-container">
+  <img src="/assets/img/coburg_scene_viewer.png">
+  <div>
+    <strong>Project: </strong>Coburg Scene Viewer<br>
+    <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
+    <strong>Role: </strong>Developer<br>
+    <strong>Tech Stack: </strong>Git, C++, DirectX 12, etc.<br>
+    A scene viewer implemented with DirectX 12 using vertex, pixel, and compute shaders with lighting, shading, and textures for inspecting various scenes in glTF.<br>
+    <a href="https://github.com/Masihtabaei/gpu-image-synthesis" target="_blank" >Repository</a>
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="/assets/img/coburg_mesh_viewer_logo.png">
+  <div>
+    <strong>Project: </strong>Coburg Mesh Viewer<br>
+    <strong>Status: </strong>Done (Grade: 1.0 | Very Good)<br>
+    <strong>Role: </strong>Developer<br>
+    <strong>Tech Stack: </strong>Git, C++, DirectX 12, etc.<br>
+    A mesh viewer implemented with DirectX 12 using vertex, pixel, and compute shaders with lighting, shading, and textures for inspecting various meshed in Cogra binary format.<br>
+    <a href="https://github.com/Masihtabaei/gpu-image-synthesis" target="_blank" >Repository</a>
+  </div>
+</div>
+
 
 <style>
 .flex-container {
