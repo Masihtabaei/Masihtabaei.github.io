@@ -7,7 +7,7 @@ excerpt: Here you will find a curated, though not complete, list of projects I h
 comments: false
 ---
 
-Here you will find a curated, though not complete, list of projects I have worked on over the past few years, with more available on my GitHub or upon request.
+Here you will find a curated, though not complete, list of projects I have worked on over the past few years, with more available on [GitHub](https://github.com/{{ site.author.github }}) or <a href="mailto:{{ site.author.email }}">upon request</a>.
 
 <div class="flex-container">
   <img src="/assets/img/projects/cheap_16_logo.png">
