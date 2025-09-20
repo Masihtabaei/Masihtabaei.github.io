@@ -31,6 +31,18 @@ comments: false
   </div>
 </div>
 
+<div class="flex-container">
+  <img src="/assets/img/coming_soon_placeholder.svg">
+  <div>
+    <strong>Project: </strong>hlslx<br>
+    <strong>Status: </strong>Ongoing<br>
+    <strong>Role: </strong>Developer<br>
+    <strong>Tech Stack: </strong>Git, GitHub, C#, etc.<br>
+    A versatile Visual Studio extension that enhances modern HLSL shader programming with syntax highlighting, code completion, and more.<br>
+    <a href="" >Coming Soon ... (approx. Q1 2026)</a>
+  </div>
+</div>
+
 
 <style>
 .flex-container {
