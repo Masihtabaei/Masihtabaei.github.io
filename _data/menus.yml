@@ -5,7 +5,15 @@
 - title: projects
   url: /projects/
   external: false
-  
+
+- title: publications
+  url: /publications/
+  external: false
+
+- title: honors
+  url: /honors/
+  external: false
+
 - title: posts
   url: /posts/
   external: false
