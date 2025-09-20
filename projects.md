@@ -28,7 +28,7 @@ Here you will find a curated, though not complete, list of projects I have worke
     <strong>Status: </strong>Done (Grade: 1.3 | Very Good)<br>
     <strong>Role: </strong>Co-Developer<br>
     <strong>Tech Stack: </strong>Git, Unity Engine, etc.<br>
-    A narrative survival game focused on riddle-solving, developed within our Fundamentals of Game Design course, developed with Unity Engine.<br>
+    A narrative survival game focused on riddle-solving, developed within our Fundamentals of Game Design course, crafted with Unity Engine.<br>
     <a href="https://github.com/{{ site.author.github }}/ladron" target="_blank">Repository</a>
   </div>
 </div>
