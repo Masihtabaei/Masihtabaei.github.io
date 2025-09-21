@@ -12,7 +12,7 @@ Here you will find a list of publications I have worked on over the past few yea
 ## Papers
 
 <div class="flex-container">
-  <img src="/assets/img/publications/real_time_gpu_tree_generation_impression.jpg">
+  <img src="/assets/img/publications/real_time_gpu_tree_generation_impression.png">
   <div>
     <strong>Real-Time GPU Tree Generation</strong><br>
     <strong>Authors: </strong>Bastian Kuth, Max Oberberger, Carsten Faber, Pirmin Pfeifer, <strong>Seyedmasih Tabaei</strong>, Dominik Baumeister, and Quirin Meyer<br>
@@ -45,7 +45,7 @@ Here you will find a list of publications I have worked on over the past few yea
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/publications/image_not_available_placeholder.svg">
+  <img src="/assets/img/publications/image_not_available_placeholder.png">
   <div>
     <strong>An Adaptable Text Data Augmentation Framework Leveraging Large Language Models for Classification Tasks</strong><br>
     <strong>Authors: </strong><strong>Seyedmasih Tabaei</strong>, Maria Alejandra Quiros Ramirez, and Stephan Streuber<br>
@@ -55,7 +55,7 @@ Here you will find a list of publications I have worked on over the past few yea
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/publications/image_not_available_placeholder.svg">
+  <img src="/assets/img/publications/image_not_available_placeholder.png">
   <div>
     <strong>Data Is All You Need: Stop Fine-Tuning Yet Another Model for Sentiment Analysis to Detect Depression</strong><br>
     <strong>Authors: </strong><strong>Seyedmasih Tabaei</strong>, Maria Alejandra Quiros Ramirez, and Stephan Streuber<br>

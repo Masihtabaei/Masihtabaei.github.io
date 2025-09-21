@@ -34,7 +34,7 @@ Here you will find a curated, though not complete, list of projects I have worke
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/projects/coming_soon_placeholder.svg">
+  <img src="/assets/img/projects/coming_soon_placeholder.png">
   <div>
     <strong>Project: </strong>hlslx<br>
     <strong>Status: </strong>Ongoing<br>
@@ -58,7 +58,7 @@ Here you will find a curated, though not complete, list of projects I have worke
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <img src="/assets/img/projects/no_logo_placeholder.png">
   <div>
     <strong>Project: </strong>reswhis<br>
     <strong>Status: </strong>Done<br>
@@ -106,7 +106,7 @@ Here you will find a curated, though not complete, list of projects I have worke
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <img src="/assets/img/projects/no_logo_placeholder.png">
   <div>
     <strong>Project: </strong>coburs<br>
     <strong>Status: </strong>Done<br>
@@ -118,7 +118,7 @@ Here you will find a curated, though not complete, list of projects I have worke
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <img src="/assets/img/projects/no_logo_placeholder.png">
   <div>
     <strong>Project: </strong>coburc<br>
     <strong>Status: </strong>Done<br>
@@ -130,7 +130,7 @@ Here you will find a curated, though not complete, list of projects I have worke
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <img src="/assets/img/projects/no_logo_placeholder.png">
   <div>
     <strong>Project: </strong>cobin<br>
     <strong>Status: </strong>Done<br>
@@ -142,7 +142,7 @@ Here you will find a curated, though not complete, list of projects I have worke
 </div>
 
 <div class="flex-container">
-  <img src="/assets/img/projects/no_logo_placeholder.svg">
+  <img src="/assets/img/projects/no_logo_placeholder.png">
   <div>
     <strong>Project: </strong>cobit<br>
     <strong>Status: </strong>Done<br>
